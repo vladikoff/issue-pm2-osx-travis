@@ -1,0 +1,22 @@
+{
+  "name": "issue-pm2-osx-travis",
+  "version": "1.0.0",
+  "description": "issue-pm2-osx-travis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladikoff/issue-pm2-osx-travis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vladikoff/issue-pm2-osx-travis/issues"
+  },
+  "homepage": "https://github.com/vladikoff/issue-pm2-osx-travis#readme",
+  "dependencies": {
+    "pm2": "0.15.10"
+  }
+}
