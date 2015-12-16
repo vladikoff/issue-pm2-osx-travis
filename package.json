@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/vladikoff/issue-pm2-osx-travis#readme",
   "dependencies": {
-    "pm2": "0.15.10"
+    "pm2": "Unitech/pm2#development"
   }
 }
